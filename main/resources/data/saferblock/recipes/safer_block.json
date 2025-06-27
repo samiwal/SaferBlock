@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "saferblock:cured_block"
+    },
+    "+": {
+      "item": "minecraft:shulker_shell"
+    },
+    "g": {
+      "item": "minecraft:grass_block"
+    },
+    "i": {
+      "item": "minecraft:ice"
+    },
+    "c": {
+      "item": "minecraft:crimson_nylium"
+    },
+    "t": {
+      "item": "minecraft:green_glazed_terracotta"
+    }
+  },
+  "pattern": [
+    "g+i",
+    "+#+",
+    "t+c"
+  ],
+  "result": {
+    "count": 1,
+    "id": "saferblock:safer_block"
+  }
+}

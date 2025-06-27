@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "saferblock:item/rotten_block",
+    "layer1": "saferblock:item/not_safer_block_overlay"
+  }
+}
